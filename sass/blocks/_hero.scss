@@ -1,0 +1,55 @@
+.hero{
+  background-image: url("../../images/Rectangle.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin-left: auto;
+  padding: 62px 206px 152px;
+}
+
+.hero__title-box{
+  display: block;
+  width: 666px;
+  margin-left: 280px;
+}
+
+.hero__title{
+  font-family: "Montserrat" , "Verdana" , sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 42px;
+  line-height: 51px;
+  text-align: center;
+  color: #fff;
+  margin-bottom: 40px;
+}
+
+.hero__form{
+  position: absolute;
+  background-color: #fff;
+  padding: 24px 24px 32px 24px;
+}
+
+.hero__box{
+  display: flex;
+}
+
+.hero__span{
+  margin-right: 11px;
+}
+
+.hero__span--secound{
+  margin-left: 32px;
+}
+.hero__input{
+  display: none;
+}
+
+.hero__checkbox{
+  display: flex;
+  font-family: "Montserrat" , "Verdana" , sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 120%;
+  color: #000000;
+}

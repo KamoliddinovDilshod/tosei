@@ -1,0 +1,51 @@
+.main__top{
+  padding: 33px 0;
+}
+
+.main__topbox{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.main__box{
+  width: 200px;
+  margin: 0;
+}
+
+.main__text{
+  font-family: "Montserrat" , "Verdana" , sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 17px;
+  color: #000;
+  margin: 0;
+}
+
+.main__link-box{
+  width: 268px;
+}
+
+.main__link{
+  display: block;
+  font-family: "Montserrat" , "Verdana" , sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 22px;
+  line-height: 27px;
+  color: #CD0000;
+  text-align: end;
+  text-decoration: none;
+  margin: 0;
+}
+
+.main__link-text{
+  font-family: "Montserrat" , "Verdana" , sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 17px;
+  color: #000;
+  margin: 0;
+}
